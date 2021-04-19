@@ -1,0 +1,18 @@
+.menu {
+  background-color: #d8d8d8;
+  display: flex;
+  justify-content: space-between; }
+
+.menu__item {
+  flex: 1;
+  text-align: center;
+  color: #0077b6;
+  padding: 0.5em;
+  text-decoration: none;
+  font-size: 2em; }
+
+.menu__item:hover {
+  background-color: #283618;
+  color: #d8d8d8; }
+
+/*# sourceMappingURL=style.css.map */
